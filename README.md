@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Ravindra Shanbhag</h1>
 <h3 align="center">A passionate Cybersecurity, AI/ML, Blockchain Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/leaderofARS]
+- 👨‍💻 All of my projects are available at [github.com/leaderofARS](github.com/leaderofARS)
 - 📫 How to reach me **abhayrshanbhag@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
