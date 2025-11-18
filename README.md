@@ -18,6 +18,7 @@ A technology enthusiast currently immersed in the exciting worlds of AI, Cyber I
 *   Solidity
 *   C
 *   C++
+*   Rust
 
 
 ***
