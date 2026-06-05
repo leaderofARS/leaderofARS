@@ -1,6 +1,6 @@
 # Hi, I'm Abhay R S!
 
-## Aspiring Cyber Security Developer | Passionate about AI, Blockchain, IoT, Cyber Systems
+## ML Engineer | Blockchain Engineer
 
 ***
 
