@@ -1,25 +1,38 @@
 # Hi, I'm Abhay R S!
 
-## ML Engineer | Blockchain Engineer
+## ML Engineer | Full Stack Developer | Open Source Contributor
 
 ***
 
 ## About Me
 
-A technology enthusiast currently immersed in the exciting worlds of AI, Cyber Infrastructure, Crypto, and Blockchain. I'm actively learning and building skills to contribute to the future of AI and decentralized technologies. Always open to collaboration, especially in projects bridging the gap between AI and Blockchain.
+I'm a software engineer with hands-on experience building production-grade ML systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated ML infrastructure project, and actively contribute to **Hugging Face Transformers**, one of the most influential open-source ML frameworks. My work focuses on practical ML applications, system design, and scalable infrastructure.
+
+***
+
+## Projects & Contributions
+
+### 🔧 AegisCore
+A comprehensive ML and blockchain engineering project showcasing expertise in:
+- Building robust ML pipelines and infrastructure
+- Full-stack development with modern frameworks
+- Production-level code quality and architecture
+
+### 🤗 Hugging Face Transformers (OSS)
+Active contributor to the open-source transformers library, demonstrating:
+- Deep understanding of state-of-the-art NLP/ML models
+- Ability to work within large collaborative codebases
+- Commitment to the open-source community
 
 ***
 
 ## Tech Stack
 
-*   TypeScript
-*   Python
-*   nodeJS
-*   Solidity
-*   C
-*   C++
-*   Rust
-
+* **Languages:** TypeScript, Python, Go, Rust, C, C++, Solidity
+* **ML/AI:** PyTorch, Transformers, Deep Learning, NLP
+* **Backend:** Node.js, GraphQL
+* **Frontend:** Next.js, Tailwind CSS
+* **Blockchain:** Solidity
 
 ***
 
@@ -48,4 +61,3 @@ A technology enthusiast currently immersed in the exciting worlds of AI, Cyber I
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
 </div>
-
