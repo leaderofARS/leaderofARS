@@ -6,17 +6,18 @@
 
 ## About Me
 
-I'm a software engineer with hands-on experience building production-grade ML systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated ML infrastructure project, and actively contribute to **Hugging Face Transformers**, one of the most influential open-source ML frameworks. My work focuses on practical ML applications, system design, and scalable infrastructure.
+I'm a software engineer with hands-on experience building production-grade systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated game infrastructure framework, and actively contribute to **Hugging Face Transformers**, one of the most influential open-source ML frameworks. My work focuses on system design, network architecture, and scalable infrastructure.
 
 ***
 
 ## Projects & Contributions
 
-### 🔧 AegisCore
-A comprehensive ML and blockchain engineering project showcasing expertise in:
-- Building robust ML pipelines and infrastructure
-- Full-stack development with modern frameworks
-- Production-level code quality and architecture
+### 🎮 AegisCore
+An open-source game lobby server for Java backends featuring:
+- Real-time player sessions and room management
+- Production-grade matchmaking systems
+- Built from raw TCP sockets up—demonstrating deep network programming expertise
+- Infrastructure layer designed for multiplayer games at scale
 
 ### 🤗 Hugging Face Transformers (OSS)
 Active contributor to the open-source transformers library, demonstrating:
@@ -28,9 +29,9 @@ Active contributor to the open-source transformers library, demonstrating:
 
 ## Tech Stack
 
-* **Languages:** TypeScript, Python, Go, Rust, C, C++, Solidity
+* **Languages:** TypeScript, Python, Go, Rust, C, C++, Solidity, Java
 * **ML/AI:** PyTorch, Transformers, Deep Learning, NLP
-* **Backend:** Node.js, GraphQL
+* **Backend & Infrastructure:** Node.js, GraphQL, TCP/Network Programming
 * **Frontend:** Next.js, Tailwind CSS
 * **Blockchain:** Solidity
 
