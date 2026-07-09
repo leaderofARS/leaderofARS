@@ -1,6 +1,6 @@
 # Hi, I'm Abhay R S!
 
-## ML Engineer | Full Stack Developer | Open Source Contributor
+## ML Engineer | Systems Programmer | Open Source Contributor
 
 ***
 
