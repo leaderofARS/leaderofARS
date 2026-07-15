@@ -19,9 +19,6 @@ An open-source game lobby server for Java backends featuring:
 - Built from raw TCP sockets up—demonstrating deep network programming expertise
 - Infrastructure layer designed for multiplayer games at scale
 
-### parq
-Contributor to the open-source parq project.
-
 ***
 
 ## Tech Stack
