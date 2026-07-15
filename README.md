@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a software engineer with hands-on experience building production-grade systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated game infrastructure framework, and actively contribute to **Hugging Face Transformers**, one of the most influential open-source ML frameworks. My work focuses on system design, network architecture, and scalable infrastructure.
+I'm a software engineer with hands-on experience building production-grade systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated game infrastructure framework, and actively contribute to open-source projects. My work focuses on system design, network architecture, and scalable infrastructure.
 
 ***
 
@@ -19,11 +19,8 @@ An open-source game lobby server for Java backends featuring:
 - Built from raw TCP sockets up—demonstrating deep network programming expertise
 - Infrastructure layer designed for multiplayer games at scale
 
-### 🤗 Hugging Face Transformers (OSS)
-Active contributor to the open-source transformers library, demonstrating:
-- Deep understanding of state-of-the-art NLP/ML models
-- Ability to work within large collaborative codebases
-- Commitment to the open-source community
+### parq
+Contributor to the open-source parq project.
 
 ***
 
