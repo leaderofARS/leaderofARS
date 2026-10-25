@@ -1,58 +1,108 @@
-# Hi, I'm Abhay R S!
+# Abhay R S
 
-## ML Engineer | Systems Programmer | Open Source Contributor
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=ML+Engineer;Systems+Programmer;Open+Source+Contributor;Building+scalable+product+systems" alt="Typing SVG" />
+</div>
 
-***
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhay-ravindra-shanbhag-900ab5330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ars_abhay">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://my-portfolio-self-tau-72.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<p align="center">
+  I design and build performant systems, intelligent products, and production-ready infrastructure across backend engineering, machine learning, and modern web experiences.
+</p>
+
+---
 
 ## About Me
 
-I'm a software engineer with hands-on experience building production-grade systems and contributing to open-source projects. I've developed **AegisCore**, a sophisticated game infrastructure framework, and actively contribute to open-source projects. My work focuses on system design, network architecture, and scalable infrastructure.
+I’m a software engineer with a strong interest in systems thinking, AI-driven products, and building tools that scale from prototype to production. My work blends backend architecture, distributed systems, networking, and ML workflows to create reliable, high-impact software.
 
-***
+I enjoy turning complex problems into elegant systems—whether it’s game infrastructure, data-heavy applications, or intelligent automation pipelines.
 
-## Projects & Contributions
+---
 
-### 🎮 AegisCore
-An open-source game lobby server for Java backends featuring:
-- Real-time player sessions and room management
-- Production-grade matchmaking systems
-- Built from raw TCP sockets up—demonstrating deep network programming expertise
-- Infrastructure layer designed for multiplayer games at scale
+## Featured Projects
 
-***
+<details>
+  <summary><strong>🎮 AegisCore</strong> <span>▸</span></summary>
+  <br>
+  <p>An open-source multiplayer infrastructure layer built for Java backends, focused on real-time game session orchestration and lobby management.</p>
+  <ul>
+    <li>Real-time player sessions and room lifecycle management</li>
+    <li>Matchmaking and game-state coordination for multiplayer experiences</li>
+    <li>Low-level networking and backend architecture built from raw TCP primitives</li>
+    <li>Designed to support scalable game systems with production-oriented reliability</li>
+  </ul>
+</details>
 
-## Tech Stack
+<details>
+  <summary><strong>🧠 AI & Automation Experiments</strong> <span>▸</span></summary>
+  <br>
+  <p>Explorations in applied machine learning, inference workflows, and intelligent tooling to bridge research ideas into usable systems.</p>
+  <ul>
+    <li>Model experimentation and prototyping across NLP and learning pipelines</li>
+    <li>Workflow automation for data-heavy and decision-support use cases</li>
+    <li>Focus on practical ML engineering rather than isolated research-only prototypes</li>
+    <li>Interest in production-friendly AI systems and developer tooling</li>
+  </ul>
+</details>
 
-* **Languages:** TypeScript, Python, Go, Rust, C, C++, Solidity, Java
-* **ML/AI:** PyTorch, Transformers, Deep Learning, NLP
-* **Backend & Infrastructure:** Node.js, GraphQL, TCP/Network Programming
-* **Frontend:** Next.js, Tailwind CSS
-* **Blockchain:** Solidity
+<details>
+  <summary><strong>⚙️ Systems & Product Engineering</strong> <span>▸</span></summary>
+  <br>
+  <p>Building software that balances engineering depth with user-facing usability across product, infrastructure, and developer experience.</p>
+  <ul>
+    <li>Backend and API design for scalable product experiences</li>
+    <li>Full-stack implementation with modern, maintainable interfaces</li>
+    <li>Performance-oriented thinking rooted in systems design and reliability</li>
+    <li>Strong bias toward clean architecture and long-term maintainability</li>
+  </ul>
+</details>
 
-***
+---
 
-## Connect with me
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ars_abhay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-ravindra-shanbhag-900ab5330/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-self-tau-72.vercel.app/)
-
-***
-
+## Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,tailwind,graphql,go,rust,python,java,cpp,c,solidity" alt="Technology stack" />
+</div>
+
+- Languages: TypeScript, Python, Go, Rust, C, C++, Java, Solidity
+- ML / AI: PyTorch, Transformers, Deep Learning, NLP, Model experimentation
+- Backend: Node.js, GraphQL, APIs, networked systems, distributed logic
+- Frontend: Next.js, Tailwind CSS, modern UI engineering
+- Systems: TCP/Network programming, infrastructure design, production reliability
+
+---
+
+## What I Care About
+
+- Building systems that are fast, reliable, and understandable
+- Shipping products with real engineering depth and thoughtful architecture
+- Working at the intersection of AI, infrastructure, and developer productivity
+- Designing for scale without sacrificing clarity or maintainability
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-ravindra-shanbhag-900ab5330/">LinkedIn</a>
+  •
+  <a href="https://x.com/ars_abhay">X / Twitter</a>
+  •
+  <a href="https://my-portfolio-self-tau-72.vercel.app/">Portfolio</a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leaderofARS&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
 </div>
