@@ -33,14 +33,14 @@ I enjoy turning complex problems into elegant systems—whether it’s game infr
 ## Featured Projects
 
 <details>
-  <summary><strong>🚀 HelioForge-ai</strong> <span>▸</span></summary>
+  <summary><strong>🚀 HelioForge AI</strong> <span>▸</span></summary>
   <br>
-  <p>An AI-driven platform for building autonomous workflows, experimentation loops, and production-ready tooling across data, model orchestration, and developer productivity.</p>
+  <p>A Python-first AI platform for solar flare forecasting using scientific data from ISRO’s Aditya-L1 mission, combining data engineering, ML/DL modeling, and a dashboard-driven research workflow.</p>
   <ul>
-    <li>Agentic AI workflows for reasoning, automation, and decision support</li>
-    <li>Composable orchestration for experiments, pipelines, and operational tooling</li>
-    <li>Built to bridge research ideas into practical systems with clear product value</li>
-    <li>Explores the intersection of LLM applications, systems thinking, and scalable product design</li>
+    <li>Preprocessing and feature engineering for HEL1OS and SoLEXS datasets</li>
+    <li>Machine learning and deep learning pipelines for solar flare prediction</li>
+    <li>Interactive dashboard and deployment setup for exploration and model serving</li>
+    <li>Built with strong emphasis on scientific workflows, AWS infrastructure, and production-ready experimentation</li>
   </ul>
 </details>
 
