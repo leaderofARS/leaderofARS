@@ -1,7 +1,7 @@
 # Abhay R S
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=ML+Engineer;Systems+Programmer;Open+Source+Contributor;Building+scalable+product+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=ML+Engineer;Systems+Programmer;Open+Source+Contributor;Building+scalable+AI+systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,13 +24,25 @@
 
 ## About Me
 
-I’m a software engineer with a strong interest in systems thinking, AI-driven products, and building tools that scale from prototype to production. My work blends backend architecture, distributed systems, networking, and ML workflows to create reliable, high-impact software.
+I’m a software engineer with a strong interest in systems thinking, AI-driven products, and building tools that scale from prototype to production. My work blends backend architecture, distributed systems, and applied ML engineering into practical software that solves real problems.
 
 I enjoy turning complex problems into elegant systems—whether it’s game infrastructure, data-heavy applications, or intelligent automation pipelines.
 
 ---
 
 ## Featured Projects
+
+<details>
+  <summary><strong>🚀 HelioForge-ai</strong> <span>▸</span></summary>
+  <br>
+  <p>An AI-driven platform for building autonomous workflows, experimentation loops, and production-ready tooling across data, model orchestration, and developer productivity.</p>
+  <ul>
+    <li>Agentic AI workflows for reasoning, automation, and decision support</li>
+    <li>Composable orchestration for experiments, pipelines, and operational tooling</li>
+    <li>Built to bridge research ideas into practical systems with clear product value</li>
+    <li>Explores the intersection of LLM applications, systems thinking, and scalable product design</li>
+  </ul>
+</details>
 
 <details>
   <summary><strong>🎮 AegisCore</strong> <span>▸</span></summary>
